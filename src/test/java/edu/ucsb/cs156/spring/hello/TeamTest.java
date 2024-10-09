@@ -62,4 +62,15 @@ public class TeamTest {
         assertTrue(!(teamA.equals(teamB)));
     }
 
+    @Test
+    public void hashCode_same_for_equal_objects() {
+        Team t1 = new Team();
+        t1.setName("javinsDogSquad");
+        t1.addMember("asha");
+        Team t2 = new Team();
+        t2.setName("javinsDogSquad");
+        t2.addMember("asha");
+        assertEquals(t1.hashCode(), t2.hashCode());
+    }
+
 }
