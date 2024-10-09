@@ -1,24 +1,8 @@
-# STARTER-jpa01
+# jpa02-jzipkin1812
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
+Repo: https://github.com/ucsb-cs156-f24/jpa02-jzipkin1812
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s24/jpa01-cgaucho
-
-Repo: https://ucsb-cs156-s24/STARTER-jpa01
-
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
-
-
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-jzipkin1812.dokku-12.cs.ucsb.edu
 
 
 # About this repo

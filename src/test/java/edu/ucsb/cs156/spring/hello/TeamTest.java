@@ -71,6 +71,7 @@ public class TeamTest {
         t2.setName("javinsDogSquad");
         t2.addMember("asha");
         assertEquals(t1.hashCode(), t2.hashCode());
+        assertEquals(t1.hashCode(), t1.name.hashCode() | t1.members.hashCode());
     }
 
 }
